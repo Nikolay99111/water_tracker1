@@ -1,0 +1,14 @@
+# Flutter build files
+build/
+.dart_tool/
+
+# Generated files
+**/*.lock
+
+# IDE
+.idea/
+.vscode/
+
+# Packages
+.packages
+pubspec.lock
